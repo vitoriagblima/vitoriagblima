@@ -108,7 +108,7 @@ Sou Vitória Gabriela, graduanda em Ciência da Computação com interesse espec
 - **Inglês:** Intermediário avançado (em aprimoramento contínuo via Duolingo 🦉)
 
 <p align="left">
-  <a href="https://https://pt.duolingo.com/profile/vitoriagblm" target="_blank" rel="noopener noreferrer">
+  <a href="https://pt.duolingo.com/profile/vitoriagblm" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Duolingo-Aprendizado%20Ativo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"
       alt="Duolingo Badge"
