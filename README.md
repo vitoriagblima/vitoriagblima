@@ -1,81 +1,115 @@
-# 👩‍💻 Vitória Gabriela
+# 👩🏻‍💻 Vitória Gabriela
 
-**`Estudante de Ciência da Computação | Aspirante a Cientista de Dados`**
+**`Estudante de Ciência da Computação | Foco em Ciência de Dados e Machine Learning`**
 
-Olá! Me chamo **Vitória Gabriela**, sou estudante de Ciência da Computação e apaixonada por **Data Science**. Amo transformar dados em **insights valiosos** e criar soluções inteligentes com **Machine Learning**. Estou sempre explorando novos conhecimentos, desenvolvendo projetos práticos e evoluindo minhas habilidades para atuar na área de forma estratégica e inovadora.
-
----
-
-## 🌟 Métricas GitHub
+Sou Vitória Gabriela, graduanda em Ciência da Computação com interesse especial em análise de dados, aprendizado de máquina e soluções baseadas em inteligência artificial. Busco aplicar conhecimentos teóricos e práticos em projetos desafiadores, aprimorando minhas habilidades por meio de cursos especializados e participação ativa em desafios de programação. Minha missão é transformar dados em insights que promovam impacto real.
 
 <p align="left">
-  <a href="https://github.com/vitoriagblima?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/vitoriagblima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/vitoriagblima?tab=followers">
+  <a href="https://github.com/vitoriagblima?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
     <img
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
+      alt="Estrelas nos repositórios"
+      title="Estrelas GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/vitoriagblima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+      />
+  </a>
+  <a href="https://github.com/vitoriagblima?tab=followers" target="_blank" rel="noopener noreferrer">
+    <img
+      alt="Seguidores"
+      title="Seguidores GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/vitoriagblima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
-</p>
-
-## 🧠 Stack de Data Science
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Pandas" title="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img alt="NumPy" title="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img alt="Jupyter" title="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-  <img alt="Scikit-learn" title="Scikit-learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img alt="Matplotlib" title="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
-
-<br/>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img alt="Vitória Gabriela - GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitoriagblima&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
-    </td>
-    <td>
-      <img alt="Vitória Gabriela - Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriagblima&theme=tokyonight&layout=compact&hide_border=true&custom_title=Linguagens&langs_count=8&hide=html,css,javascript,typescript,php" />
-    </td>
-    <td>
-      <img alt="Vitória Gabriela - Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriagblima&theme=tokyonight&hide_border=true&locale=pt-br" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-## 🤝 Vamos nos conectar!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vitóriagblima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/vitoriagblima" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:vitoriagblm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vitóriagblima" target="_blank" rel="noopener noreferrer">
+    <img
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  ⭐️ Obrigada por visitar meu perfil!  
-  Se curtir algum projeto, deixe uma estrela e me siga para acompanhar minha evolução 🚀
+### 🤖 Linguagens e Tecnologias
+
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
+<img
+  align="left"
+  alt="Pandas"
+  title="Pandas"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+/>
+<img
+  align="left"
+  alt="NumPy"
+  title="NumPy"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+/>
+<img
+  align="left"
+  alt="Jupyter"
+  title="Jupyter Notebook"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+/>
+<img
+  align="left"
+  alt="Scikit-learn"
+  title="Scikit-learn"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+/>
+<img
+  align="left"
+  alt="Matplotlib"
+  title="Matplotlib"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+/>
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<br />
+<br />
+
+
+### 🏅 Certificações
+
+- [Google Data Analytics – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/0RJ6LX7GUYT0)  
+- [Supervised Machine Learning: Regression and Classification – Coursera](https://www.coursera.org/account/accomplishments/verify/0PWFUZ7M0JDK)
+
+---
+
+### 🌐 Idiomas
+
+- **Português:** Nativo  
+- **Inglês:** Intermediário avançado (em aprimoramento contínuo via Duolingo 🦉)
+
+<p align="left">
+  <a href="https://https://pt.duolingo.com/profile/vitoriagblm" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Duolingo-Aprendizado%20Ativo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"
+      alt="Duolingo Badge"
+    />
+  </a>
 </p>
