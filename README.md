@@ -32,16 +32,28 @@ Olá! Me chamo Vitória Gabriela, sou estudante de Ciência da Computação e um
 <img align="left" alt="Scikit-learn" title="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+
 <br/>
 <br/>
+
 
 ## 📊 Estatísticas do GitHub
 
+
+<div align="center">
+
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=vitoriagabriela&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriagabriela&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&hide=html,css,javascript,typescript,php" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=vitoriagblima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriagblima&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&hide=html,css,javascript,typescript,php" />
 </p>
 
+
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -50,7 +62,7 @@ Olá! Me chamo Vitória Gabriela, sou estudante de Ciência da Computação e um
 
 ## 📫 Vamos nos conectar!
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/vitóriagblima">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
