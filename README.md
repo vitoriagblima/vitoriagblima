@@ -92,6 +92,8 @@ Sou Vitória Gabriela, graduanda em Ciência da Computação com interesse espec
 <br />
 <br />
 
+---
+
 
 ### 🏅 Certificações
 
