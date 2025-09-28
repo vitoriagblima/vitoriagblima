@@ -13,7 +13,7 @@ Olá! Me chamo Vitória Gabriela, sou estudante de Ciência da Computação e um
         />
     </a>
     <a href="https://github.com/vitoriagblima?tab=followers">
-        <img 
+        <img
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/vitoriagblima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
