@@ -5,18 +5,18 @@
 Olá! Me chamo Vitória Gabriela, sou estudante de Ciência da Computação e uma entusiasta de Data Science. Tenho grande paixão por transformar dados em insights valiosos e criar soluções inteligentes através de Machine Learning. Estou constantemente aprendendo e desenvolvendo projetos práticos para expandir meu conhecimento na área.
 
 <p align="left">
-    <a href="https://github.com/vitoriagabriela?tab=repositories&sort=stargazers">
+    <a href="https://github.com/vitoriagblima?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vitoriagabriela?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/vitoriagblima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/vitoriagabriela?tab=followers">
+    <a href="https://github.com/vitoriagblima?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vitoriagabriela?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/vitoriagblima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
