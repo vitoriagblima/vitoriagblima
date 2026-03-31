@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vitória Gabriela
 
-**`Estudante de Ciência da Computação | Foco em Ciência de Dados e Machine Learning`**
+**`Estudante de Ciência da Computação | Backend, Engenharia de dados`**
 
 Estudante de Ciência da Computação focada em desenvolvimento backend e engenharia de dados. Experiência com Python, Java, APIs REST, Flask, SQL e Power BI. Buscando evoluir através de projetos práticos e desafios reais.
 
