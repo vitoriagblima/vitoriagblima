@@ -95,7 +95,7 @@ Estudante de Ciência da Computação focada em desenvolvimento backend e engenh
 ---
 
 
-### 🏅 Certificações
+### 🏅 Principais Certificações
 
 - [Google Data Analytics – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/0RJ6LX7GUYT0)  
 - [Supervised Machine Learning: Regression and Classification – Coursera](https://www.coursera.org/account/accomplishments/verify/0PWFUZ7M0JDK)
