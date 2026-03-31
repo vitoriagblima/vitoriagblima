@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação | Foco em Ciência de Dados e Machine Learning`**
 
-Sou Vitória Gabriela, graduanda em Ciência da Computação com interesse especial em análise de dados, aprendizado de máquina e soluções baseadas em inteligência artificial. Busco aplicar conhecimentos teóricos e práticos em projetos desafiadores, aprimorando minhas habilidades por meio de cursos especializados e participação ativa em desafios de programação. Minha missão é transformar dados em insights que promovam impacto real.
+Estudante de Ciência da Computação focada em desenvolvimento backend e engenharia de dados. Experiência com Python, Java, APIs REST, Flask, SQL e Power BI. Buscando evoluir através de projetos práticos e desafios reais.
 
 <p align="left">
   <a href="https://github.com/vitoriagblima?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
