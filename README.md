@@ -6,12 +6,6 @@ Currently studying Java, Object-Oriented Programming, Spring Boot, REST APIs, re
 
 Building projects to strengthen software engineering fundamentals and gain practical experience with modern backend technologies.
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,maven,git,github,idea" />
-</p>
-
 ## Currently Learning
 
 * Object-Oriented Programming (OOP)
@@ -22,3 +16,9 @@ Building projects to strengthen software engineering fundamentals and gain pract
 * JPA / Hibernate
 * Software Architecture
 * Clean Code
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,maven,git,github,idea" />
+</p>
