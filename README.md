@@ -1,6 +1,7 @@
 ## About Me
 
-Computer Science student focused on backend development with Java.
+Java Backend Developer in Progress
+Computer Science Student
 
 Currently studying Java, Object-Oriented Programming, Spring Boot, REST APIs, relational databases, software architecture, and backend development best practices.
 
