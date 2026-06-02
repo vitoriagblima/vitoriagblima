@@ -1,9 +1,3 @@
-# Vitória Lima
-
-### Computer Science Student • Java Backend Developer
-
----
-
 ## About Me
 
 Computer Science student focused on backend development with Java.
@@ -12,15 +6,11 @@ Currently studying Java, Object-Oriented Programming, Spring Boot, REST APIs, re
 
 Building projects to strengthen software engineering fundamentals and gain practical experience with modern backend technologies.
 
----
-
 ## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,maven,git,github,idea" />
 </p>
-
----
 
 ## Currently Learning
 
