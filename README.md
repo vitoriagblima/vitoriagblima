@@ -1,9 +1,9 @@
 ## Sobre Mim
 
-Desenvolvedor Java Backend em Formação
+Desenvolvedora Java Backend em Formação
 Estudante de Ciência da Computação
 
-Atualmente focado no aprendizado de Java, Programação Orientada a Objetos, Spring Boot, APIs REST, bancos de dados relacionais, arquitetura de software e boas práticas de desenvolvimento backend.
+Atualmente focada no aprendizado de Java, Programação Orientada a Objetos, Spring Boot, APIs REST, bancos de dados relacionais, arquitetura de software e boas práticas de desenvolvimento backend.
 
 Construindo projetos autorais para consolidar os fundamentos da engenharia de software e adquirir experiência prática com as tecnologias backend mais utilizadas no mercado.
 
