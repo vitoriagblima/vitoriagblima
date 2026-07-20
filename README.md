@@ -1,24 +1,24 @@
-## About Me
+## Sobre Mim
 
-Java Backend Developer in Progress
-Computer Science Student
+Desenvolvedor Java Backend em Formação
+Estudante de Ciência da Computação
 
-Currently studying Java, Object-Oriented Programming, Spring Boot, REST APIs, relational databases, software architecture, and backend development best practices.
+Atualmente focado no aprendizado de Java, Programação Orientada a Objetos, Spring Boot, APIs REST, bancos de dados relacionais, arquitetura de software e boas práticas de desenvolvimento backend.
 
-Building projects to strengthen software engineering fundamentals and gain practical experience with modern backend technologies.
+Construindo projetos autorais para consolidar os fundamentos da engenharia de software e adquirir experiência prática com as tecnologias backend mais utilizadas no mercado.
 
-## Currently Learning
+## Conhecimentos em Desenvolvimento
 
-* Object-Oriented Programming (OOP)
-* Java Fundamentals
+* Programação Orientada a Objetos (POO)
+* Fundamentos da Linguagem Java
 * Spring Boot
-* REST APIs
-* SQL & Database Modeling
+* APIs REST
+* SQL e Modelagem de Banco de Dados
 * JPA / Hibernate
-* Software Architecture
-* Clean Code
+* Arquitetura de Software
+* Código Limpo (Clean Code)
 
-## Tech Stack
+## Tecnologias e Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,maven,git,github,idea" />
